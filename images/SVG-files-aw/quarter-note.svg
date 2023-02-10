@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="quarter-note" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38.51 97.29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #58595b;
+      }
+    </style>
+
+     <script>
+      let quarterNote = document.querySelector('#quarter-note')
+
+      function logID() {
+      console.log("You've selected", this.id);
+      }
+
+      quarterNote.addEventListener('click', logID)
+    
+    </script>
+  </defs>
+  <g id="quarter_note" data-name="quarter note">
+    <path id="quarter-note" class="cls-1" d="m23.22,73.1c-6.48-1.41-12.65-.32-16.49,2.48V4.03c0-.43-.35-.78-.78-.78h-2.15c-.43,0-.78.35-.78.78v76.82c-.02.06-.03.12-.05.19-1.42,6.51,5.34,13.51,15.1,15.64,9.76,2.13,18.83-1.42,20.25-7.93,1.42-6.51-5.34-13.51-15.1-15.64Z"/>
+    <path id="quarter-note-2" data-name="quarter-note" class="cls-2" d="m20.43,69.86c-6.48-1.41-12.65-.32-16.49,2.48V.78c0-.43-.35-.78-.78-.78H1.01C.58,0,.24.35.24.78v76.82c-.02.06-.03.12-.05.19-1.42,6.51,5.34,13.51,15.1,15.64,9.76,2.13,18.83-1.42,20.25-7.93,1.42-6.51-5.34-13.51-15.1-15.64Z"/>
+  </g>
+</svg>

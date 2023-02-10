@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="missing-disc" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183.21 183.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-dasharray: 0 0 11.81 11.81;
+        stroke-miterlimit: 10;
+        stroke-width: 2.79px;
+      }
+    </style>
+
+     <script>
+      let missingDisc = document.querySelector('#missing-disc')
+
+      function logID() {
+      console.log("You've selected", this.id);
+      }
+
+      missingDisc.addEventListener('click', logID)
+    
+    </script>
+  </defs>
+  <g id="empty_slot" data-name="empty slot">
+    <circle class="cls-1" cx="91.61" cy="91.61" r="90.21"/>
+  </g>
+</svg>

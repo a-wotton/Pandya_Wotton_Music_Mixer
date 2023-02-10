@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pause-button" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57 75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #58595b;
+      }
+    </style>
+
+     <script>
+      let pauseButton = document.querySelector('#pause-button')
+
+      function logID() {
+      console.log("You've selected", this.id);
+      }
+
+      pauseButton.addEventListener('click', logID)
+    
+    </script>
+  </defs>
+  <g id="pause-button">
+    <g id="left-piece">
+      <rect class="cls-1" x="4" y="4" width="22" height="71" rx="4.03" ry="4.03"/>
+      <rect class="cls-2" width="22" height="71" rx="4.03" ry="4.03"/>
+    </g>
+    <g id="right-piece">
+      <rect class="cls-1" x="35" y="4" width="22" height="71" rx="4.03" ry="4.03"/>
+      <rect class="cls-2" x="31" width="22" height="71" rx="4.03" ry="4.03"/>
+    </g>
+  </g>
+</svg>

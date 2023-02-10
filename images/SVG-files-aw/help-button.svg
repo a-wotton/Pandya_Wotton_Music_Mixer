@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="help-button" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.97 55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #58595b;
+      }
+
+      .cls-3 {
+        fill: none;
+        font-family: Futura-Bold, Futura;
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: .03em;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+
+   <script>
+      let helpButton = document.querySelector('#help-button')
+
+      function logID() {
+      console.log("You've selected", this.id);
+      }
+
+      helpButton.addEventListener('click', logID)
+    
+    </script>
+  </defs>
+  <g id="help">
+    <rect class="cls-1" x="4.72" y="4.06" width="51.26" height="50.94" rx="5.86" ry="5.86"/>
+    <rect class="cls-2" width="51.26" height="50.94" rx="5.86" ry="5.86"/>
+    <text class="cls-3" transform="translate(16.22 38.3)"><tspan x="0" y="0">?</tspan></text>
+  </g>
+</svg>

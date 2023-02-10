@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="reset-button" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154.24 47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        font-family: Futura-Bold, Futura;
+        font-size: 24px;
+        font-weight: 700;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        fill: #58595b;
+      }
+
+      .cls-4 {
+        letter-spacing: .04em;
+      }
+
+      .cls-5 {
+        letter-spacing: .03em;
+      }
+
+      .cls-6 {
+        letter-spacing: .03em;
+      }
+
+      .cls-7 {
+        letter-spacing: .02em;
+      }
+    </style>
+
+     <script>
+      let resetButton = document.querySelector('#reset-button')
+
+      function logID() {
+      console.log("You've selected", this.id);
+      }
+
+      resetButton.addEventListener('click', logID)
+    
+    </script>
+  </defs>
+  <g id="reset-button">
+    <rect class="cls-2" x="5" y="5" width="149.24" height="42" rx="9.08" ry="9.08"/>
+    <rect class="cls-3" width="149.24" height="42" rx="9.08" ry="9.08"/>
+    <text class="cls-1" transform="translate(38.25 29.4)"><tspan class="cls-7" x="0" y="0">R</tspan><tspan class="cls-6" x="17.47" y="0">es</tspan><tspan class="cls-4" x="46.66" y="0">e</tspan><tspan class="cls-5" x="63.07" y="0">t</tspan></text>
+  </g>
+</svg>

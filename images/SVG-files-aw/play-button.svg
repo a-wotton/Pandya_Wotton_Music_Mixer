@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="play-button" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.03 78.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #58595b;
+      }
+    </style>
+
+     <script>
+      let playButton = document.querySelector('#play-button')
+
+      function logID() {
+      console.log("You've selected", this.id);
+      }
+
+      playButton.addEventListener('click', logID)
+    
+    </script>
+  </defs>
+  <g id="play-button">
+    <g id="play-button-2" data-name="play-button">
+      <path class="cls-1" d="m69.05,34.58L17.95,5.08c-5.31-3.07-11.95.77-11.95,6.9v59c0,6.13,6.64,9.97,11.95,6.9l51.1-29.5c5.31-3.07,5.31-10.73,0-13.8Z"/>
+      <path class="cls-2" d="m63.05,30.58L11.95,1.08C6.64-1.99,0,1.85,0,7.98v59c0,6.13,6.64,9.97,11.95,6.9l51.1-29.5c5.31-3.07,5.31-10.73,0-13.8Z"/>
+    </g>
+  </g>
+</svg>
