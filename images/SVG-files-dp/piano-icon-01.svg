@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 180.017 181.728" enable-background="new 0 0 180.017 181.728" xml:space="preserve">
+<g id="piano">
+	<path fill="none" stroke="#000000" stroke-width="3.8437" stroke-miterlimit="10" d="M42.999,179.806h94.019
+		c22.686,0,41.077-18.391,41.077-41.077v-95.73c0-22.686-18.391-41.077-41.077-41.077H42.999c-22.686,0-41.077,18.391-41.077,41.077
+		v95.73C1.922,161.415,20.313,179.806,42.999,179.806z"/>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="3.485" stroke-miterlimit="10" d="M56.118,140.477H39.721
+			c-2.539,0-4.597-2.058-4.597-4.597V56.448c0-1.66,1.346-3.006,3.006-3.006h19.58c1.66,0,3.006,1.346,3.006,3.006v79.432
+			C60.715,138.419,58.657,140.477,56.118,140.477z"/>
+		<path fill="#FFFFFF" stroke="#000000" stroke-width="3.485" stroke-miterlimit="10" d="M81.709,140.477H65.312
+			c-2.539,0-4.597-2.058-4.597-4.597V56.448c0-1.66,1.346-3.006,3.006-3.006H83.3c1.66,0,3.006,1.346,3.006,3.006v79.432
+			C86.306,138.419,84.248,140.477,81.709,140.477z"/>
+		<path fill="#FFFFFF" stroke="#000000" stroke-width="3.485" stroke-miterlimit="10" d="M107.3,140.477H90.903
+			c-2.539,0-4.597-2.058-4.597-4.597V56.448c0-1.66,1.346-3.006,3.006-3.006h19.58c1.66,0,3.006,1.346,3.006,3.006v79.432
+			C111.897,138.419,109.839,140.477,107.3,140.477z"/>
+		<path fill="#FFFFFF" stroke="#000000" stroke-width="3.485" stroke-miterlimit="10" d="M132.891,140.477h-16.397
+			c-2.539,0-4.597-2.058-4.597-4.597V56.448c0-1.66,1.346-3.006,3.006-3.006h19.58c1.66,0,3.006,1.346,3.006,3.006v79.432
+			C137.488,138.419,135.43,140.477,132.891,140.477z"/>
+		<rect x="49.94" y="31.24" stroke="#4D4D4D" stroke-width="3.1981" stroke-miterlimit="10" width="17.24" height="58.758"/>
+		<rect x="105.846" y="31.24" stroke="#4D4D4D" stroke-width="3.1981" stroke-miterlimit="10" width="17.24" height="58.758"/>
+		<rect x="77.686" y="31.24" stroke="#4D4D4D" stroke-width="3.1981" stroke-miterlimit="10" width="17.24" height="58.758"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 220.693 116.74" enable-background="new 0 0 220.693 116.74" xml:space="preserve">
+<g id="flute">
+	<path fill="#FFD700" stroke="#000000" stroke-width="0.4005" stroke-miterlimit="10" d="M180.986,58.462l-79.283-9.975
+		c-4.526,5.578-5.135,11.348-2.351,17.286l79.283,9.975"/>
+	<path fill="#FFD700" stroke="#000000" stroke-width="0.4009" stroke-miterlimit="10" d="M104.837,48.882l-79.42-9.992
+		c-4.532,5.577-5.141,11.347-2.352,17.285l79.42,9.992"/>
+	
+		<ellipse transform="matrix(0.5014 -0.8652 0.8652 0.5014 -7.0702 92.964)" stroke="#000000" stroke-width="0.4009" stroke-miterlimit="10" cx="77.129" cy="52.617" rx="3.914" ry="3.987"/>
+	
+		<ellipse transform="matrix(0.5014 -0.8652 0.8652 0.5014 5.9427 123.9486)" stroke="#000000" stroke-width="0.4009" stroke-miterlimit="10" cx="110.521" cy="56.818" rx="3.914" ry="3.987"/>
+	
+		<ellipse transform="matrix(0.5014 -0.8652 0.8652 0.5014 15.5053 146.7178)" stroke="#000000" stroke-width="0.4009" stroke-miterlimit="10" cx="135.059" cy="59.905" rx="3.914" ry="3.987"/>
+	
+		<ellipse transform="matrix(0.5014 -0.8652 0.8652 0.5014 25.6848 170.9559)" stroke="#000000" stroke-width="0.4009" stroke-miterlimit="10" cx="161.18" cy="63.191" rx="3.914" ry="3.987"/>
+	<path fill="none" stroke="#000000" stroke-width="0.4005" stroke-miterlimit="10" d="M90.726,47.106
+		c-4.991,4.887-5.178,10.761-1.943,17.337"/>
+	<path fill="none" stroke="#000000" stroke-width="0.4005" stroke-miterlimit="10" d="M52.418,42.287
+		c-4.159,5.168-4.411,11.016-1.943,17.337"/>
+	<path fill="none" stroke="#000000" stroke-width="0.4005" stroke-miterlimit="10" d="M48.564,41.802
+		c-4.159,5.168-4.411,11.016-1.943,17.337"/>
+	
+		<ellipse transform="matrix(0.1055 -0.9944 0.9944 0.1055 94.4988 239.3947)" stroke="#000000" stroke-width="0.4009" stroke-miterlimit="10" cx="180.32" cy="67.169" rx="8.723" ry="4.804"/>
+	<path fill="none" stroke="#000000" stroke-width="1.3544" stroke-miterlimit="10" d="M24.097,116.063h172.499
+		c12.934,0,23.42-10.485,23.42-23.42V24.097c0-12.934-10.485-23.42-23.42-23.42H24.097c-12.934,0-23.42,10.485-23.42,23.42v68.546
+		C0.677,105.578,11.163,116.063,24.097,116.063z"/>
+	<g>
+		<polyline fill="#FFFFFF" stroke="#000000" stroke-width="0.9369" stroke-miterlimit="10" points="195.671,34.501 186.801,17.665 
+			177.303,24.267 183.739,37.349 		"/>
+		<ellipse transform="matrix(0.7924 -0.61 0.61 0.7924 18.3842 124.753)" cx="192.469" cy="35.368" rx="3.798" ry="1.792"/>
+		<ellipse transform="matrix(0.8247 -0.5655 0.5655 0.8247 9.5441 109.215)" cx="180.967" cy="39.21" rx="3.734" ry="1.822"/>
+	</g>
+	<g>
+		<polyline fill="#FFFFFF" stroke="#000000" stroke-width="0.9369" stroke-miterlimit="10" points="157.698,31.589 148.828,14.753 
+			139.33,21.355 145.766,34.436 		"/>
+		<ellipse transform="matrix(0.7924 -0.61 0.61 0.7924 12.2769 100.9839)" cx="154.496" cy="32.456" rx="3.798" ry="1.792"/>
+		<ellipse transform="matrix(0.8247 -0.5655 0.5655 0.8247 4.5354 87.2295)" cx="142.994" cy="36.298" rx="3.734" ry="1.822"/>
+	</g>
+</g>
+</svg>

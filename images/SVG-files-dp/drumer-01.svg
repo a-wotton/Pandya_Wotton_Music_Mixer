@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 187.359 192.657" enable-background="new 0 0 187.359 192.657" xml:space="preserve">
+<g id="drums">
+	
+		<ellipse fill="none" stroke="#000000" stroke-width="5.3237" stroke-miterlimit="10" cx="92.794" cy="103.411" rx="38.553" ry="33.472"/>
+	
+		<ellipse fill="none" stroke="#000000" stroke-width="6.0486" stroke-miterlimit="10" cx="92.794" cy="103.411" rx="43.802" ry="38.03"/>
+	<g id="drumstick_00000110428399509549138110000010598873985100940934_">
+		<polygon fill="#2A000B" points="85.236,109.898 93.925,158.76 97.965,157.971 89.276,109.109 		"/>
+		
+			<ellipse transform="matrix(0.59 -0.8074 0.8074 0.59 -51.963 115.1745)" fill="#2A000B" cx="87.418" cy="108.749" rx="4.403" ry="4.329"/>
+	</g>
+	<g id="drumstick">
+		<polygon fill="#2A000B" points="104.119,99.359 158.125,113.335 159.23,108.645 105.224,94.669 		"/>
+		<ellipse fill="#2A000B" cx="103.977" cy="96.482" rx="4.892" ry="5.127"/>
+	</g>
+	<path fill="none" stroke="#000000" stroke-width="3.2078" stroke-miterlimit="10" d="M52.525,191.053h82.309
+		c28.123,0,50.921-22.798,50.921-50.921V52.525c0-28.123-22.798-50.921-50.921-50.921H52.525c-28.123,0-50.921,22.798-50.921,50.921
+		v87.607C1.604,168.255,24.402,191.053,52.525,191.053z"/>
+	<g>
+		<polyline fill="#FFFFFF" stroke="#000000" stroke-width="2.6586" stroke-miterlimit="10" points="75.599,58.791 49.902,11.998 
+			22.385,30.348 41.03,66.704 		"/>
+		<ellipse transform="matrix(0.811 -0.5851 0.5851 0.811 -23.2697 50.3707)" cx="66.323" cy="61.199" rx="10.841" ry="5.054"/>
+		<ellipse transform="matrix(0.8418 -0.5398 0.5398 0.8418 -33.5807 29.1876)" cx="33" cy="71.878" rx="10.683" ry="5.128"/>
+	</g>
+</g>
+</svg>
