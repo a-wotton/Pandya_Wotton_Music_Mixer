@@ -1,0 +1,1 @@
+https://codepen.io/Jenya777/pen/xxZpdKr - This is a music mixer project that is very similar to our assignment requirements. It is an interesting site, however there are many features we can improve upon, such as adding pause and reset features. This could also help with figuring out how to properly set up the Javascript.
