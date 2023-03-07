@@ -4,7 +4,8 @@
 	 y="0px" viewBox="0 0 56 55" style="enable-background:new 0 0 56 55;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#231F20;}
-	.st1{fill:#F72585;}
+	.st1{fill:#F72585; transition: all 0.3s ease;}
+	.st1:hover{fill:#B5179E; cursor:pointer;}
 	.st2{fill:#FFFFFF;}
 	.st3{font-family:'Futura-Bold';}
 	.st4{font-size:32px;}

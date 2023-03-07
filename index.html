@@ -7,10 +7,34 @@
     <title>Music Mixer</title>
 </head>
 <body>
-    <nav class="navigation">
-        <a class="nav-link" href="#"><h1>The Lost</h1></a>
-        <img id="help-button" src="images/SVG-files-aw/help-button.svg" alt="help button">
+    <div id="container">
+    <header>
+        <h1 class="hidden">The Lost -- Music Mixer</h1>
+    <nav class="grid">
+        <h2 class="hidden">Navigation</h2>
+        <a id="logo" class="nav-link" href="#"><h1>The Lost</h1></a>
+        <object id="help-button" data="images/SVG-files-aw/help-button.svg" type="image/svg+xml"></object>
     </nav>
+    </header>
+
+    <main>
+        <section class="grid" id="disc-slots">
+            <h2 class="hidden">Disc Slots</h2>
+            <div class="slot" id="slot1"></div>
+            <div class="slot" id="slot2"></div>
+            <div class="slot" id="slot3"></div>
+            <div class="slot" id="slot4"></div>
+        </section>
+
+        <section id="controls">
+            <h2 class="hidden">Playback Controls</h2>
+        </section>
+
+        <section id="disc-select">
+            <h2 class="hidden">Disc Selection</h2>
+        </section>
+    </main>
+    </div>
     
 </body>
 </html>
