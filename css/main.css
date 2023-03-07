@@ -4,14 +4,11 @@ body{
     margin:0;
 }
 
-
-
-
-
 .navigation {
     display: flex;
     justify-content: center;
-    background-color: #4361EE;
+    background: rgb(247,37,133);
+    background: linear-gradient(90deg, rgba(247,37,133,1) 10%, rgba(72,149,239,1) 90%);
     color: white;
     
   }
