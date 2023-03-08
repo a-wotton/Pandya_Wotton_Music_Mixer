@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="658" height="104" viewBox="0 0 658 104">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#560bad"/>
+      <stop offset="1" stop-color="#3f37c9"/>
+    </linearGradient>
+  </defs>
+  <g id="control-bar" transform="translate(-284.704 -1299.587)">
+    <rect id="shadow" width="646" height="95" rx="47.5" transform="translate(296.704 1308.587)"/>
+    <rect id="control-bar-2" data-name="control-bar" width="646" height="95" rx="47.5" transform="translate(284.704 1299.587)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
