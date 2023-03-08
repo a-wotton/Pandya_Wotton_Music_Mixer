@@ -2,8 +2,13 @@
 <svg id="reset-button" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154.24 47">
   <defs>
     <style>
+
+      #reset-button:hover {
+        cursor: pointer;
+      }
+
       .cls-1 {
-        fill: none;
+        fill: #ffffff;
         font-family: Futura-Bold, Futura;
         font-size: 24px;
         font-weight: 700;
@@ -12,11 +17,16 @@
       }
 
       .cls-2 {
-        fill: #231f20;
+        fill: #000000;
       }
 
       .cls-3 {
-        fill: #58595b;
+        fill: #F72585;
+            transition: 0.3s all ease;
+      }
+
+      #reset-button:hover .cls-3 {
+        fill: #B5179E;
       }
 
       .cls-4 {
