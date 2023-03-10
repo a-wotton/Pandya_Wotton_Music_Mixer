@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="bass-disc" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 183.2 183.2" style="enable-background:new 0 0 183.2 183.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#414042;stroke:#231F20;stroke-width:2.79;stroke-miterlimit:10;}
+	.st1{fill:#58595B;}
+	.st2{fill:#4895EF;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'Futura-Bold';}
+	.st5{font-size:16.72px;}
+	.st6{font-size:16.722px;}
+	.st7{fill:none;stroke:#FFFFFF;stroke-width:0.65;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:0.78;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#FFFFFF;stroke-width:0.7;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-width:1.03;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:1.15;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#FFFFFF;stroke-width:1.28;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#FFFFFF;stroke-width:1.41;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#FFFFFF;stroke-width:0.9;stroke-miterlimit:10;}
+</style>
+<defs>
+	<script>let bassDisc = document.querySelector(&apos;#bass-disc&apos;)
+
+      function logID() {
+      console.log(&quot;You&apos;ve selected&quot;, this.id);
+      }
+
+      bassDisc.addEventListener(&apos;click&apos;, logID)
+		</script>
+</defs>
+<circle class="st0" cx="91.6" cy="91.6" r="90.2"/>
+<circle class="st1" cx="91.1" cy="90.7" r="31.3"/>
+<circle class="st2" cx="91.1" cy="90.7" r="27.5"/>
+<text transform="matrix(0.9556 -0.2947 0.2947 0.9556 68.08 98.5398)" class="st3 st4 st5">B</text>
+<text transform="matrix(0.9957 -9.237059e-02 9.237059e-02 0.9957 78.87 95.09)" class="st3 st4 st5">A</text>
+<text transform="matrix(0.9942 0.1073 -0.1073 0.9942 92.14 93.9799)" class="st3 st4 st5">S</text>
+<text transform="matrix(0.9583 0.2859 -0.2859 0.9583 102.8622 95.1426)" class="st3 st4 st6">S</text>
+<g id="upper-reflection">
+	<path class="st7" d="M105.3,55.8c10.7,4.1,19.2,12.9,22.8,23.8"/>
+	<path class="st8" d="M107.9,48.6c12.9,4.9,23,15.3,27.3,28.4"/>
+	<path class="st9" d="M110,42.6c14.8,5.3,26.6,17.1,31.9,31.9"/>
+	<path class="st10" d="M112.9,34.8c16.9,6.3,30.2,20,36.1,37.2"/>
+	<path class="st11" d="M115.4,28c18.9,7.1,33.9,22.4,40.5,41.5"/>
+	<path class="st12" d="M117.8,20.7c21.2,7.8,37.9,24.8,45.2,46.2"/>
+	<path class="st13" d="M120.6,13.6c23.2,8.6,41.5,27.3,49.6,50.7"/>
+</g>
+<g id="lower-reflection">
+	<path class="st7" d="M79,127.8c-10.5-3.7-19-11.8-23.1-22.1"/>
+	<path class="st8" d="M76.4,135c-12.6-4.4-22.7-14.2-27.6-26.6"/>
+	<path class="st14" d="M73.8,142.2c-14.5-5.4-26-16.9-31.4-31.4"/>
+	<path class="st10" d="M71.4,148.8c-16.7-5.9-30-18.9-36.4-35.3"/>
+	<path class="st11" d="M68.9,155.6C50.2,149,35.3,134.4,28.2,116"/>
+	<path class="st12" d="M66.3,162.9c-20.9-7.4-37.6-23.8-45.4-44.6"/>
+	<path class="st13" d="M63.6,170c-22.9-8.2-41.2-26.1-49.8-48.8"/>
+</g>
+</svg>
