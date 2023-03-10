@@ -6,12 +6,12 @@
 <style type="text/css">
 	.st0{fill:#414042;stroke:#231F20;stroke-width:2.79;stroke-miterlimit:10;}
 	.st1{fill:#58595B;}
-	.st2{fill:#F72585;}
+	.st2{fill:#3F37C9;}
 	.st3{fill:#E6E7E8;}
 	.st4{font-family:'Futura-Bold';}
 	.st5{font-size:12px;}
-	.st6{font-size:11.9995px;}
-	.st7{font-size:12.0004px;}
+	.st6{font-size:11.9985px;}
+	.st7{font-size:12.0012px;}
 	.st8{fill:none;stroke:#FFFFFF;stroke-width:0.65;stroke-miterlimit:10;}
 	.st9{fill:none;stroke:#FFFFFF;stroke-width:0.78;stroke-miterlimit:10;}
 	.st10{fill:none;stroke:#FFFFFF;stroke-width:0.7;stroke-miterlimit:10;}
@@ -27,9 +27,9 @@
 	<circle class="st2" cx="91.1" cy="90.7" r="27.5"/>
 	<text transform="matrix(0.9452 -0.3264 0.3264 0.9452 68.2849 96.9849)" class="st3 st4 st5">D</text>
 	<text transform="matrix(0.9839 -0.1786 0.1786 0.9839 77.255 93.925)" class="st3 st4 st5">R</text>
-	<text transform="matrix(0.9996 -2.687587e-02 2.687587e-02 0.9996 85.5651 92.3652)" class="st3 st4 st6">U</text>
+	<text transform="matrix(0.9996 -2.687795e-02 2.687795e-02 0.9996 85.5648 92.3647)" class="st3 st4 st6">U</text>
 	<text transform="matrix(0.9875 0.1576 -0.1576 0.9875 95.3549 91.975)" class="st3 st4 st5">M</text>
-	<text transform="matrix(0.9463 0.3234 -0.3234 0.9463 107.5754 94.1248)" class="st3 st4 st7">S</text>
+	<text transform="matrix(0.9463 0.3234 -0.3234 0.9463 107.5757 94.1239)" class="st3 st4 st7">S</text>
 	<g id="upper-reflection">
 		<path class="st8" d="M105.3,55.8c10.7,4.1,19.2,12.9,22.8,23.8"/>
 		<path class="st9" d="M107.9,48.6c12.9,4.9,23,15.3,27.3,28.4"/>

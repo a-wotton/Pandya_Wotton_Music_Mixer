@@ -6,11 +6,11 @@
 <style type="text/css">
 	.st0{fill:#414042;stroke:#231F20;stroke-width:2.79;stroke-miterlimit:10;}
 	.st1{fill:#58595B;}
-	.st2{fill:#F72585;}
+	.st2{fill:#4895EF;}
 	.st3{fill:#FFFFFF;}
 	.st4{font-family:'Futura-Bold';}
 	.st5{font-size:10px;}
-	.st6{font-size:9.9997px;}
+	.st6{font-size:9.9988px;}
 	.st7{fill:none;stroke:#FFFFFF;stroke-width:0.65;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#FFFFFF;stroke-width:0.78;stroke-miterlimit:10;}
 	.st9{fill:none;stroke:#FFFFFF;stroke-width:0.7;stroke-miterlimit:10;}
@@ -27,7 +27,7 @@
 	<text transform="matrix(0.9541 -0.2995 0.2995 0.9541 69.3849 96.475)" class="st3 st4 st5">M</text>
 	<text transform="matrix(0.9861 -0.1663 0.1663 0.9861 79.3549 93.515)" class="st3 st4 st5">E</text>
 	<text transform="matrix(0.9974 -7.201970e-02 7.201970e-02 0.9974 85.105 92.555)" class="st3 st4 st5">L</text>
-	<text transform="matrix(0.9988 4.832831e-02 -4.832831e-02 0.9988 90.3648 92.0546)" class="st3 st4 st6">O</text>
+	<text transform="matrix(0.9988 4.833287e-02 -4.833287e-02 0.9988 90.3636 92.0548)" class="st3 st4 st6">O</text>
 	<text transform="matrix(0.9814 0.192 -0.192 0.9814 99.6549 92.565)" class="st3 st4 st5">D</text>
 	<text transform="matrix(0.9512 0.3085 -0.3085 0.9512 106.9151 93.9751)" class="st3 st4 st5">Y</text>
 	<g id="upper-reflection">
