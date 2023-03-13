@@ -14,7 +14,7 @@
 	<script>let helpButton = document.querySelector(&apos;#help-button&apos;)
 
       function logID() {
-      console.log(&quot;You&apos;ve selected&quot;, this.id);
+      console.log("Open Help");
       }
 
       helpButton.addEventListener(&apos;click&apos;, logID)

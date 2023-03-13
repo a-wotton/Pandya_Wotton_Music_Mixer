@@ -76,6 +76,18 @@ main {
   background-image: url(../images/disc-slot.svg);
   width: 197px;
   height: 197px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: transparent 10px #3F37C9;
+  border-radius: 50%;
+  animation: pulse 1s linear 0s infinite normal;
+}
+
+.slot img {
+  height: 177px;
+  width: 177px;
+  animation: spin 1s linear 0s infinite normal;
 }
 
 #slot1 {
@@ -144,6 +156,10 @@ main {
   margin: 15px;
 }
 
+.disc:hover {
+  cursor: pointer;
+}
+
 #bass {
   grid-column: 1/5;
   padding: 0;
@@ -184,4 +200,9 @@ footer p:last-of-type {
 
 footer span {
   font-weight: bold;
+}
+
+@keyframes spin {
+  from{transform: rotate(0deg);}
+  to{transform: rotate(360deg);}
 }
