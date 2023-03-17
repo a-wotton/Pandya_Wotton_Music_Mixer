@@ -19,12 +19,15 @@ let slots = document.querySelectorAll(".slot"),
     }
 
     function handleDrop(e) {
-        console.log("dropped the piece")
+        console.log("dropped the piece");
         if (this.children.length == 0) {
-            e.target.appendChild(draggedDisc);
+          e.target.appendChild(draggedDisc);
+          let audio = document.querySelector("#audio");
+          audio.src = draggedDisc.dataset.audio; // set the source of the audio element to the data-audio attribute of the dropped disc
+          audio.play(); // play the audio file
         }
-    }
-
+      }
+      
     // Audio Controls & Help Functions
 
     function help () {
@@ -56,7 +59,19 @@ let slots = document.querySelectorAll(".slot"),
     playButton.addEventListener("click", handlePlay);
     pauseButton.addEventListener("click", handlePause);
     reset.addEventListener("click", handleReset);
+// Get the drop zone element
+const dropZone = document.querySelector('#disc-slots');
 
+// Add the drop event listener to the drop zone
+dropZone.addEventListener('drop', function(e) {
+  e.preventDefault();
+  console.log('dropped...');
 
+  // Get the dropped element and its data attribute
+  const droppedDisc = draggedDisc;
+  const audioPath = droppedDisc.getAttribute('data-audio');
 
- 
+  // Create a new Audio object and play the audio file
+  const audio = new Audio(audioPath);
+  audio.play();
+});
