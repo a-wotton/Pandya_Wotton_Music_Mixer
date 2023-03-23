@@ -4,6 +4,8 @@ let slots = document.querySelectorAll(".slot"),
     pauseButton = document.querySelector("#pause-button"),
     reset = document.querySelector("#reset"),
     helpButton = document.querySelector("#help-button"),
+    closeButton = document.querySelector("#close"),
+    helpSection = document.querySelector("#help-section"),
     draggedDisc;
 
     // Drag & Drop Functions
@@ -27,7 +29,19 @@ let slots = document.querySelectorAll(".slot"),
           audio.play(); // play the audio file
         }
       }
-      
+
+    // Help Section
+
+    function close() {
+        console.log("closed the help option");
+        helpSection.style.display = "none";
+    }
+
+    function reOpen() {
+        console.log("reopened help section");
+        helpSection.style.display = "grid";
+    }
+
     // Audio Controls & Help Functions
 
     function help () {
@@ -47,15 +61,16 @@ let slots = document.querySelectorAll(".slot"),
     }
 
     // Drag & Drop Events
-
     discs.forEach(disc => disc.addEventListener("dragstart", handleStartDrag));
 
     slots.forEach(slot => slot.addEventListener("dragover", handleDragOver));
     slots.forEach(slot => slot.addEventListener("drop", handleDrop));
 
-    //Audio Controls & Help Events
+    //Help Section
+    closeButton.addEventListener("click", close);
+    helpButton.addEventListener("click", reOpen);
 
-    helpButton.addEventListener("click", help);
+    //Audio Controls & Help Events  
     playButton.addEventListener("click", handlePlay);
     pauseButton.addEventListener("click", handlePause);
     reset.addEventListener("click", handleReset);
