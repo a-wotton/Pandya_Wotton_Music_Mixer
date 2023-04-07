@@ -1,8 +1,8 @@
 let slots = document.querySelectorAll(".slot"),
     discs = document.querySelectorAll(".disc"),
-    playButton = document.querySelector("#play-button"),
-    pauseButton = document.querySelector("#pause-button"),
-    reset = document.querySelector("#reset"),
+    playButton = document.querySelector("#play-def"),
+    pauseButton = document.querySelector("#pause-def"),
+    reset = document.querySelector("#reset-def"),
     helpButton = document.querySelector("#help-button"),
     closeButton = document.querySelector("#close"),
     helpSection = document.querySelector("#help-section"),
@@ -24,7 +24,7 @@ let slots = document.querySelectorAll(".slot"),
         console.log("dropped the piece");
         if (this.children.length == 0) {
           e.target.appendChild(draggedDisc);
-          let audio = document.querySelector("#audio");
+          let audio = document.querySelector("audio");
           audio.src = draggedDisc.dataset.audio; // set the source of the audio element to the data-audio attribute of the dropped disc
           audio.play(); // play the audio file
         }
