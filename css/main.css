@@ -165,16 +165,49 @@ main {
   align-items: center;
 }
 
-#control-bar object {
-  height: 70px;
+.play-button {
+  width: 70px;
+  margin-left: 50px;
 }
 
-#play-button {
-  margin-right: 25px;
+.default {
+  z-index: 10;
 }
 
-#pause-button {
-  margin-right: 100px;
+.default:hover {
+  opacity: 0%;
+  cursor: pointer;
+}
+
+#play-def {
+  position: relative;
+  left: 120px;
+}
+
+#play-hov {
+  position: relative;
+  margin-right: 30px;
+}
+
+.pause-button {
+  grid-row: 1/1;
+  width: 55px;
+}
+
+#pause-hov {
+  position: relative;
+  right: 55px;
+  margin-right: 70px;
+}
+
+.reset-button {
+  grid-row: 1/1;
+  width: 200px;
+}
+
+#reset-hov {
+  position: relative;
+  right: 200px;
 }
 
 #disc-select {
