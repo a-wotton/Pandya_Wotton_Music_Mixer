@@ -24,11 +24,25 @@ function handleDragOver(e) {
 function handleDrop(e) {
     console.log("dropped the piece");
     if (this.children.length == 0) {
+        // Append the dropped disc to the slot
         e.target.appendChild(draggedDisc);
-        audio.src = draggedDisc.dataset.audio; // set the source of the audio element to the data-audio attribute of the dropped disc
-        audio.play(); // play the audio file
+
+        // If audio is not playing, start playing the audio file
+        if (audio.paused) {
+            audio.src = draggedDisc.dataset.audio;
+            audio.loop = true; // Set loop to true
+            audio.play();
+        } 
+        // If audio is already playing, create a new audio element and start playing the new audio file
+        else {
+            const newAudio = new Audio(draggedDisc.dataset.audio);
+            newAudio.loop = true; // Set loop to true
+            newAudio.play();
+        }
     }
 }
+
+
 
 // Help Section
 
